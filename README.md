@@ -21,6 +21,10 @@ A demo webinterface is [provided](https://jabcode.org/create) to evaluate the li
          ├── jabcodeReader    # JAB Code reader application
          └── jabcodeWriter    # JAB Code writer application
 
+## Dependencies
+
+libpng16, zlib and libtiff.
+
 ## Build Instructions
 The JAB Code core library, reader and writer applications are written in C (C11) and tested under Ubuntu 14.04 with gcc 4.8.4 and GNU Make 3.8.1. 
 
